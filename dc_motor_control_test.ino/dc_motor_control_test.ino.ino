@@ -1,7 +1,3 @@
-//  Demo function:The application method to drive the DC motor.
-//  Author:Frankie.Chu
-//  Date:20 November, 2012
-
 #include "MotorDriver.h"
 
 #define MOTOR_ZERO 0
